@@ -102,7 +102,6 @@
             "settings": {
               "text": "出貨及配送服務延遲通知",
               "learn_more_text": "",
-              "image": "shopify://shop_images/1_e7c99cb1-7bfa-4ac8-a206-8a8fc78e0a40.png",
               "title": "因颱風影響（7月24日和7月25日），我們的物流和配送服務可能會有所延遲。部分台灣地區因淹水影響，亦可能導致送貨進度受阻。我們深知這可能帶來的不便，但請相信，我們正全力以赴，確保您的訂單能盡快送達。感謝您的耐心和理解，並期待您的持續支持。",
               "content": "<p> </p>",
               "button_text": "",
@@ -131,11 +130,10 @@
         "settings": {
           "enable_sticky_header": true,
           "logo-svg": "",
-          "logo": "shopify://shop_images/2024-12-logo-_-190.svg",
           "logo_max_width": 40,
           "mobile_logo_max_width": 25,
-          "navigation_menu": "new-mega-menu",
-          "sidebar_navigation_menu": "new-mega-menu",
+          "navigation_menu": "",
+          "sidebar_navigation_menu": "",
           "header_layout": "logo_left_navigation_inline",
           "show_icons": true,
           "reduce_desktop_padding": false,
@@ -152,20 +150,19 @@
           "d901d6e5-2dc6-4ed3-937a-076ffa47f4df": {
             "type": "image",
             "settings": {
-              "image": "shopify://shop_images/220928_logo_gc_20a2e7fc-4b84-4feb-8f31-9355fbaaaac1.png",
               "image_width": 300
             }
           },
           "03ba5bd2-28b0-402f-92b6-484ebc31a5ed": {
             "type": "links",
             "settings": {
-              "menu": "about-us"
+              "menu": ""
             }
           },
           "d5ce4fc0-e59e-49b6-9b74-5eb8503d786a": {
             "type": "links",
             "settings": {
-              "menu": "terms-services"
+              "menu": ""
             }
           },
           "0da750f7-8525-40af-9455-8a2691d70d54": {
@@ -279,7 +276,6 @@
         "settings": {
           "show_section": true,
           "reveal_on_scroll": true,
-          "image": "shopify://shop_images/230202_GC_all.webp",
           "subheading": "訂閱我們的電子報",
           "content": "<p>即時掌握產品動態、活動資訊和特價優惠等最新消息。</p>",
           "text_position": "center",
@@ -298,106 +294,15 @@
           "show_only_on_index": false,
           "show_only_for_visitors": true,
           "show_only_once": true,
-          "image": "shopify://shop_images/19.png",
           "image_position": "right",
-          "title": "穩如鈦山 TITANSHIELD",
-          "content": "<p>採用固態電池的 MagSafe 行動電源<br/><strong>只發電、不發火</strong><br/><br/>固態電池技術<br/>相較傳統電池大幅降低熱膨脹與起火風險</p>",
-          "button_text": "嘖嘖開賣中",
+          "title": "Discover Our Best-Selling Wigs!",
+          "content": "<p><br/>Limited stock, shop the trend before it’s gone.<br/><br/></p>",
+          "button_text": "Shop Now",
           "button_link": "https://www.zeczec.com/projects/grantclassic"
         }
       }
     },
-    "content_for_index": [],
-    "blocks": {
-      "5134484470793087125": {
-        "type": "shopify://apps/vitals/blocks/app-embed/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-        "disabled": false,
-        "settings": {}
-      },
-      "16278478101612877664": {
-        "type": "shopify://apps/pagefly-page-builder/blocks/app-embed/83e179f7-59a0-4589-8c66-c0dddf959200",
-        "disabled": false,
-        "settings": {}
-      },
-      "14327677521557774844": {
-        "type": "shopify://apps/simprosys-google-shopping-feed/blocks/core_settings_block/1f0b859e-9fa6-4007-97e8-4513aff5ff3b",
-        "disabled": false,
-        "settings": {}
-      },
-      "9356323809658795675": {
-        "type": "shopify://apps/reelup-shoppable-videos-reels/blocks/reelup/a8ec9e4d-d192-44f7-9c23-595f9ee7dd5b",
-        "disabled": false,
-        "settings": {
-          "debugging_popup_script": "",
-          "debugging_pops_script": "",
-          "debugging_global_script": "",
-          "enable_reelPops": true
-        }
-      },
-      "14868561720390754469": {
-        "type": "shopify://apps/loloyal-com/blocks/boom-cend/930ac91f-2bf2-4655-9ba0-574771f782d6",
-        "disabled": false,
-        "settings": {}
-      },
-      "17599714577972976482": {
-        "type": "shopify://apps//blocks/cvs_widget/db3cf894-1968-40c5-bb48-952d15f1fd8d",
-        "disabled": false,
-        "settings": {}
-      },
-      "18443944202862238493": {
-        "type": "shopify://apps/clarity-session-replay-heatmap/blocks/app-embed/a00e1498-58a5-40f8-a329-090bf3504868",
-        "disabled": false,
-        "settings": {}
-      },
-      "9664103760669878543": {
-        "type": "shopify://apps/seoon-blog/blocks/avada-seoon-setting/a45c3e67-be9f-4255-a194-b255a24f37c9",
-        "disabled": false,
-        "settings": {}
-      },
-      "5254528770348971878": {
-        "type": "shopify://apps/discount-mixer/blocks/app-embed/791c666a-e939-4fd3-bdd3-b122066bb588",
-        "disabled": true,
-        "settings": {
-          "general_banner": false,
-          "sticky_banner": false,
-          "title": "All products have a discount!",
-          "background-color": "#000000",
-          "text-color": "#ffffff",
-          "url": "",
-          "font-size": 16,
-          "text-align": "center"
-        }
-      },
-      "7322671195855991875": {
-        "type": "shopify://apps/discount-mixer/blocks/discount-view/791c666a-e939-4fd3-bdd3-b122066bb588",
-        "disabled": false,
-        "settings": {
-          "discounted-price-background-color": "#000000",
-          "card-discounted-price-font-size": 16,
-          "product-discounted-price-font-size": 18,
-          "home-badge": true,
-          "collection-badge": true,
-          "product-badge": true,
-          "round-price-to-whole-number": true,
-          "trailing-zero": false,
-          "sale-badge-text": "",
-          "sale-badge-background-color": "#000000",
-          "sale-badge-text-color": "#ffffff",
-          "sale-badge-font-size": 12,
-          "sale-badge-border-radius": 12,
-          "timeout": 500,
-          "show-tier-table": false,
-          "tier-quantity-header-text": "",
-          "tier-discount-header-text": "",
-          "tier-table-background-color": "transparent",
-          "tier-table-text-color": "#000000",
-          "tier-table-border-color": "#cccccc",
-          "tier-table-border-width": 1,
-          "tier-table-border-radius": 5,
-          "tier-table-font-size": 14
-        }
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Carbon": {
