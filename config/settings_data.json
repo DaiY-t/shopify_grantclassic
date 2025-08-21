@@ -129,9 +129,10 @@
         "type": "header",
         "settings": {
           "enable_sticky_header": true,
-          "logo-svg": "",
+          "logo-svg": "dfgvdsfgdf",
+          "logo": "shopify://shop_images/5a9c823e74dae9a66fdaf39ca6936c70.png",
           "logo_max_width": 40,
-          "mobile_logo_max_width": 25,
+          "mobile_logo_max_width": 75,
           "navigation_menu": "",
           "sidebar_navigation_menu": "",
           "header_layout": "logo_left_navigation_inline",
